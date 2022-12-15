@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vejtheguy.github.io/3-column-preview-card-component-main](https://vejtheguy.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-This was my first project incorporating 'clamp', to help keep the entire page fully responsive without using any '@media queries'.  I have also started to add hidden 'screen reader only' text to help explain elements on the page.
+This was my first project incorporating 'clamp' to help keep the entire page fully responsive without using any '@media queries'.  I have also started to add hidden 'screen reader only' text to help explain elements on the page.
 
 ```html
 <h1 class="sr-only">Three column preview card</h1>
