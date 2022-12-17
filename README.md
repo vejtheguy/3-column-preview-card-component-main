@@ -11,7 +11,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -53,6 +55,9 @@ This was my first project incorporating 'clamp' to help keep the entire page ful
     margin-bottom: clamp(25px, 5vw, 70px);
 }
 ```
+### Useful resources
+
+- [Flexbox Holy Albatross](https://heydonworks.com/article/the-flexbox-holy-albatross/) - Super cool thing you can do with flex-basis to control the flexbox from row to column.
 
 ## Author
 
@@ -60,3 +65,6 @@ This was my first project incorporating 'clamp' to help keep the entire page ful
 - Frontend Mentor - [@vejtheguy](https://www.frontendmentor.io/profile/vejtheguy)
 - Twitter - [@aworthlessgamer](https://twitter.com/aworthlessgamer)
 
+## Acknowledgments
+
+Thank you Vanza Setia for the tip about flexbox! [@vanzasetia](https://www.frontendmentor.io/profile/vanzasetia)
